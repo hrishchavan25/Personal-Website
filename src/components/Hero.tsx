@@ -174,7 +174,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenTerminal, onOpenContact, onOpe
                   </div>
                   
                   <p className="text-slate-700 text-base sm:text-lg leading-relaxed font-chic max-w-xl">
-                    Computer Engineering undergraduate researching applied AI, biomedical signals, safety systems, and digital wellness.
+                    AI/ML researcher building practical tools for health, safety, and wellness.
                   </p>
 
                   {/* IP Copyright Badge & Vibe Tags */}

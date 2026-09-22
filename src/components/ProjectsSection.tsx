@@ -104,7 +104,7 @@ export const ProjectsSection: React.FC<ProjectsSectionProps> = ({ onOpenCertific
                     {project.title}
                   </h3>
                   <p className="mt-3 text-sm sm:text-base text-slate-600 leading-relaxed font-chic line-clamp-2">
-                    {project.description}
+                    {project.tagline}
                   </p>
 
                 </div>

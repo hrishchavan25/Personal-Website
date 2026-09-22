@@ -136,7 +136,7 @@ export const ContactSection: React.FC = () => {
                   {PERSONAL_INFO.availability}
                 </p>
                 <p className="text-xs text-slate-600 mt-1 leading-relaxed">
-                  Open to full-stack engineering, web software development, and systems engineering roles.
+                  Open to research and engineering opportunities.
                 </p>
               </div>
             </div>

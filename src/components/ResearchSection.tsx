@@ -244,8 +244,8 @@ export const ResearchSection: React.FC<ResearchSectionProps> = ({ onOpenCertific
                     {area.title}
                   </h4>
 
-                  <p className="text-sm sm:text-base text-slate-600 font-chic mt-3 leading-relaxed line-clamp-3">
-                    {area.description}
+                  <p className="text-sm sm:text-base text-slate-600 font-chic mt-3 leading-relaxed line-clamp-2">
+                    {area.tagline}
                   </p>
 
                   {/* Focus Points List */}

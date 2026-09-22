@@ -85,7 +85,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ onOpenResume }) => {
                     </h3>
                   </div>
                   <p className="text-xs sm:text-sm text-slate-700 mt-2.5 leading-relaxed font-chic">
-                    My engineering work is rooted in building software that actively makes communities safer and more resilient. From developing dynamic pathfinding algorithms for pedestrian protection to intelligent stress-management frameworks, I strive to turn complex AI research into intuitive, accessible tools.
+                    I turn AI research into practical tools for safer, healthier communities.
                   </p>
                   <p className="hidden sm:block text-xs sm:text-sm text-slate-700 mt-2 leading-relaxed font-chic">
                     Proficient across <strong className="text-purple-950 font-semibold">Python, Java, C, C++, SQL, React Native</strong>, and modern full-stack web architectures.
